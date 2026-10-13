@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "method": "Multiclass token softmax SGD; actual learned weights; deterministic feature extractor. Fixed 0.72 threshold.",
+  "split": "Entity identities are disjoint; shared grammar templates. Not an independent natural-language generalization test.",
+  "train": {
+    "sentences": 192,
+    "truthEntityTokens": 600,
+    "acceptedEntityTokens": 600,
+    "truePositive": 600,
+    "falsePositive": 0,
+    "missed": 0,
+    "precision": 1,
+    "recall": 1,
+    "mistakes": []
+  },
+  "validation": {
+    "sentences": 64,
+    "truthEntityTokens": 200,
+    "acceptedEntityTokens": 200,
+    "truePositive": 200,
+    "falsePositive": 0,
+    "missed": 0,
+    "precision": 1,
+    "recall": 1,
+    "mistakes": []
+  },
+  "holdout": {
+    "sentences": 64,
+    "truthEntityTokens": 200,
+    "acceptedEntityTokens": 200,
+    "truePositive": 200,
+    "falsePositive": 0,
+    "missed": 0,
+    "precision": 1,
+    "recall": 1,
+    "mistakes": []
+  },
+  "challenge": {
+    "sentences": 4,
+    "truthEntityTokens": 7,
+    "acceptedEntityTokens": 4,
+    "truePositive": 3,
+    "falsePositive": 1,
+    "missed": 4,
+    "precision": 0.75,
+    "recall": 0.42857142857142855,
+    "mistakes": [
+      {
+        "text": "Please call me curious. My school is online.",
+        "token": "curious",
+        "actual": "NONE",
+        "predicted": "PERSON",
+        "score": 0.96600392984784
+      },
+      {
+        "text": "Ava from Mapleton attends Cedarbrook.",
+        "token": "Ava",
+        "actual": "PERSON",
+        "predicted": "NONE",
+        "score": 0.533392436443664
+      },
+      {
+        "text": "Ava from Mapleton attends Cedarbrook.",
+        "token": "Mapleton",
+        "actual": "PLACE",
+        "predicted": "NONE",
+        "score": 0.6154853699721657
+      },
+      {
+        "text": "Ava from Mapleton attends Cedarbrook.",
+        "token": "Cedarbrook",
+        "actual": "SCHOOL",
+        "predicted": "NONE",
+        "score": 0.4627850358957026
+      },
+      {
+        "text": "My name is 권준 and I live in 서울.",
+        "token": "서울",
+        "actual": "PLACE",
+        "predicted": "PLACE",
+        "score": 0.6892322946115453
+      }
+    ]
+  },
+  "limitations": [
+    "English synthetic grammar only.",
+    "Confident wrong labels and misses remain possible.",
+    "Scores are uncalibrated softmax outputs, not correctness probabilities.",
+    "Regex contact patterns are separate from model evaluation."
+  ],
+  "corpusSha256": "78ea7eb9abe4b9e078a4ef35f48c0e34068953c7b7100413f6ec92d39e858ad0"
+}

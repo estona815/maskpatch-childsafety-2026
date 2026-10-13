@@ -1,0 +1,5781 @@
+{
+  "train": [
+    {
+      "text": "My name is Ava and I live in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-0",
+      "template": 0
+    },
+    {
+      "text": "Please call me Ava. My school is Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-0",
+      "template": 1
+    },
+    {
+      "text": "I study at Cedar Brook School and live at 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-0",
+      "template": 2
+    },
+    {
+      "text": "My friend is Ava. We meet in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-0",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Ava at Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-0",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-0",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-0",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample0@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-0",
+      "template": 7
+    },
+    {
+      "text": "My name is Noah and I live in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-1",
+      "template": 0
+    },
+    {
+      "text": "Please call me Noah. My school is Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-1",
+      "template": 1
+    },
+    {
+      "text": "I study at Oak Ridge Academy and live at 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-1",
+      "template": 2
+    },
+    {
+      "text": "My friend is Noah. We meet in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-1",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Noah at Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-1",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-1",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-1",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample1@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-1",
+      "template": 7
+    },
+    {
+      "text": "My name is Mia and I live in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-2",
+      "template": 0
+    },
+    {
+      "text": "Please call me Mia. My school is Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-2",
+      "template": 1
+    },
+    {
+      "text": "I study at Willow Crest School and live at 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-2",
+      "template": 2
+    },
+    {
+      "text": "My friend is Mia. We meet in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-2",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Mia at Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-2",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-2",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-2",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample2@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-2",
+      "template": 7
+    },
+    {
+      "text": "My name is Ezra and I live in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-3",
+      "template": 0
+    },
+    {
+      "text": "Please call me Ezra. My school is Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-3",
+      "template": 1
+    },
+    {
+      "text": "I study at Birch Gate Academy and live at 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-3",
+      "template": 2
+    },
+    {
+      "text": "My friend is Ezra. We meet in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-3",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Ezra at Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-3",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-3",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-3",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample3@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-3",
+      "template": 7
+    },
+    {
+      "text": "My name is Leo and I live in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-4",
+      "template": 0
+    },
+    {
+      "text": "Please call me Leo. My school is Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-4",
+      "template": 1
+    },
+    {
+      "text": "I study at Cedar Brook School and live at 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-4",
+      "template": 2
+    },
+    {
+      "text": "My friend is Leo. We meet in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-4",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Leo at Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-4",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-4",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-4",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample4@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-4",
+      "template": 7
+    },
+    {
+      "text": "My name is Luna and I live in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-5",
+      "template": 0
+    },
+    {
+      "text": "Please call me Luna. My school is Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-5",
+      "template": 1
+    },
+    {
+      "text": "I study at Oak Ridge Academy and live at 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-5",
+      "template": 2
+    },
+    {
+      "text": "My friend is Luna. We meet in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-5",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Luna at Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-5",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-5",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-5",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample5@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-5",
+      "template": 7
+    },
+    {
+      "text": "My name is Omar and I live in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-6",
+      "template": 0
+    },
+    {
+      "text": "Please call me Omar. My school is Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-6",
+      "template": 1
+    },
+    {
+      "text": "I study at Willow Crest School and live at 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-6",
+      "template": 2
+    },
+    {
+      "text": "My friend is Omar. We meet in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-6",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Omar at Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-6",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-6",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-6",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample6@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-6",
+      "template": 7
+    },
+    {
+      "text": "My name is Iris and I live in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-7",
+      "template": 0
+    },
+    {
+      "text": "Please call me Iris. My school is Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-7",
+      "template": 1
+    },
+    {
+      "text": "I study at Birch Gate Academy and live at 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-7",
+      "template": 2
+    },
+    {
+      "text": "My friend is Iris. We meet in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-7",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Iris at Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-7",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-7",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-7",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample7@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-7",
+      "template": 7
+    },
+    {
+      "text": "My name is Ava and I live in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-8",
+      "template": 0
+    },
+    {
+      "text": "Please call me Ava. My school is Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-8",
+      "template": 1
+    },
+    {
+      "text": "I study at Cedar Brook School and live at 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-8",
+      "template": 2
+    },
+    {
+      "text": "My friend is Ava. We meet in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-8",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Ava at Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-8",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-8",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-8",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample8@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-8",
+      "template": 7
+    },
+    {
+      "text": "My name is Noah and I live in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-9",
+      "template": 0
+    },
+    {
+      "text": "Please call me Noah. My school is Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-9",
+      "template": 1
+    },
+    {
+      "text": "I study at Oak Ridge Academy and live at 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-9",
+      "template": 2
+    },
+    {
+      "text": "My friend is Noah. We meet in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-9",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Noah at Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-9",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-9",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-9",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample9@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-9",
+      "template": 7
+    },
+    {
+      "text": "My name is Mia and I live in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-10",
+      "template": 0
+    },
+    {
+      "text": "Please call me Mia. My school is Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-10",
+      "template": 1
+    },
+    {
+      "text": "I study at Willow Crest School and live at 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-10",
+      "template": 2
+    },
+    {
+      "text": "My friend is Mia. We meet in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-10",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Mia at Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-10",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-10",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-10",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample10@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-10",
+      "template": 7
+    },
+    {
+      "text": "My name is Ezra and I live in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-11",
+      "template": 0
+    },
+    {
+      "text": "Please call me Ezra. My school is Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-11",
+      "template": 1
+    },
+    {
+      "text": "I study at Birch Gate Academy and live at 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-11",
+      "template": 2
+    },
+    {
+      "text": "My friend is Ezra. We meet in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-11",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Ezra at Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-11",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-11",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-11",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample11@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-11",
+      "template": 7
+    },
+    {
+      "text": "My name is Leo and I live in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-12",
+      "template": 0
+    },
+    {
+      "text": "Please call me Leo. My school is Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-12",
+      "template": 1
+    },
+    {
+      "text": "I study at Cedar Brook School and live at 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-12",
+      "template": 2
+    },
+    {
+      "text": "My friend is Leo. We meet in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-12",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Leo at Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-12",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-12",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-12",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample12@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-12",
+      "template": 7
+    },
+    {
+      "text": "My name is Luna and I live in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-13",
+      "template": 0
+    },
+    {
+      "text": "Please call me Luna. My school is Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-13",
+      "template": 1
+    },
+    {
+      "text": "I study at Oak Ridge Academy and live at 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-13",
+      "template": 2
+    },
+    {
+      "text": "My friend is Luna. We meet in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-13",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Luna at Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-13",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-13",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-13",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample13@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-13",
+      "template": 7
+    },
+    {
+      "text": "My name is Omar and I live in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-14",
+      "template": 0
+    },
+    {
+      "text": "Please call me Omar. My school is Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-14",
+      "template": 1
+    },
+    {
+      "text": "I study at Willow Crest School and live at 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-14",
+      "template": 2
+    },
+    {
+      "text": "My friend is Omar. We meet in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-14",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Omar at Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-14",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-14",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-14",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample14@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-14",
+      "template": 7
+    },
+    {
+      "text": "My name is Iris and I live in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-15",
+      "template": 0
+    },
+    {
+      "text": "Please call me Iris. My school is Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-15",
+      "template": 1
+    },
+    {
+      "text": "I study at Birch Gate Academy and live at 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-15",
+      "template": 2
+    },
+    {
+      "text": "My friend is Iris. We meet in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-15",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Iris at Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-15",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-15",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-15",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample15@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-15",
+      "template": 7
+    },
+    {
+      "text": "My name is Ava and I live in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-16",
+      "template": 0
+    },
+    {
+      "text": "Please call me Ava. My school is Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-16",
+      "template": 1
+    },
+    {
+      "text": "I study at Cedar Brook School and live at 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-16",
+      "template": 2
+    },
+    {
+      "text": "My friend is Ava. We meet in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-16",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Ava at Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-16",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-16",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-16",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample16@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-16",
+      "template": 7
+    },
+    {
+      "text": "My name is Noah and I live in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-17",
+      "template": 0
+    },
+    {
+      "text": "Please call me Noah. My school is Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-17",
+      "template": 1
+    },
+    {
+      "text": "I study at Oak Ridge Academy and live at 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-17",
+      "template": 2
+    },
+    {
+      "text": "My friend is Noah. We meet in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-17",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Noah at Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-17",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-17",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-17",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample17@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-17",
+      "template": 7
+    },
+    {
+      "text": "My name is Mia and I live in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-18",
+      "template": 0
+    },
+    {
+      "text": "Please call me Mia. My school is Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-18",
+      "template": 1
+    },
+    {
+      "text": "I study at Willow Crest School and live at 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-18",
+      "template": 2
+    },
+    {
+      "text": "My friend is Mia. We meet in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-18",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Mia at Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-18",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-18",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-18",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample18@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-18",
+      "template": 7
+    },
+    {
+      "text": "My name is Ezra and I live in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-19",
+      "template": 0
+    },
+    {
+      "text": "Please call me Ezra. My school is Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-19",
+      "template": 1
+    },
+    {
+      "text": "I study at Birch Gate Academy and live at 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-19",
+      "template": 2
+    },
+    {
+      "text": "My friend is Ezra. We meet in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-19",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Ezra at Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-19",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-19",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-19",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample19@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-19",
+      "template": 7
+    },
+    {
+      "text": "My name is Leo and I live in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-20",
+      "template": 0
+    },
+    {
+      "text": "Please call me Leo. My school is Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-20",
+      "template": 1
+    },
+    {
+      "text": "I study at Cedar Brook School and live at 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-20",
+      "template": 2
+    },
+    {
+      "text": "My friend is Leo. We meet in 12 Maple Street.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-20",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Leo at Cedar Brook School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-20",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-20",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-20",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample20@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-20",
+      "template": 7
+    },
+    {
+      "text": "My name is Luna and I live in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-21",
+      "template": 0
+    },
+    {
+      "text": "Please call me Luna. My school is Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-21",
+      "template": 1
+    },
+    {
+      "text": "I study at Oak Ridge Academy and live at 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-21",
+      "template": 2
+    },
+    {
+      "text": "My friend is Luna. We meet in 24 Elm Road.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-21",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Luna at Oak Ridge Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-21",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-21",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-21",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample21@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-21",
+      "template": 7
+    },
+    {
+      "text": "My name is Omar and I live in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-22",
+      "template": 0
+    },
+    {
+      "text": "Please call me Omar. My school is Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-22",
+      "template": 1
+    },
+    {
+      "text": "I study at Willow Crest School and live at 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-22",
+      "template": 2
+    },
+    {
+      "text": "My friend is Omar. We meet in 36 Brook Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-22",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Omar at Willow Crest School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-22",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-22",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-22",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample22@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-22",
+      "template": 7
+    },
+    {
+      "text": "My name is Iris and I live in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-23",
+      "template": 0
+    },
+    {
+      "text": "Please call me Iris. My school is Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-23",
+      "template": 1
+    },
+    {
+      "text": "I study at Birch Gate Academy and live at 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-23",
+      "template": 2
+    },
+    {
+      "text": "My friend is Iris. We meet in 48 Pine Avenue.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "train-23",
+      "template": 3
+    },
+    {
+      "text": "My teacher is Iris at Birch Gate Academy.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "train-23",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-23",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-23",
+      "template": 6
+    },
+    {
+      "text": "Email me at trainsample23@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "train-23",
+      "template": 7
+    }
+  ],
+  "validation": [
+    {
+      "text": "My name is validationname0 and I live in 50 validationtown0 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-0",
+      "template": 0
+    },
+    {
+      "text": "Please call me validationname0. My school is validationschool0 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-0",
+      "template": 1
+    },
+    {
+      "text": "I study at validationschool0 Grove School and live at 50 validationtown0 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-0",
+      "template": 2
+    },
+    {
+      "text": "My friend is validationname0. We meet in 50 validationtown0 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-0",
+      "template": 3
+    },
+    {
+      "text": "My teacher is validationname0 at validationschool0 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-0",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-0",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-0",
+      "template": 6
+    },
+    {
+      "text": "Email me at validationsample0@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-0",
+      "template": 7
+    },
+    {
+      "text": "My name is validationname1 and I live in 51 validationtown1 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-1",
+      "template": 0
+    },
+    {
+      "text": "Please call me validationname1. My school is validationschool1 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-1",
+      "template": 1
+    },
+    {
+      "text": "I study at validationschool1 Grove School and live at 51 validationtown1 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-1",
+      "template": 2
+    },
+    {
+      "text": "My friend is validationname1. We meet in 51 validationtown1 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-1",
+      "template": 3
+    },
+    {
+      "text": "My teacher is validationname1 at validationschool1 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-1",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-1",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-1",
+      "template": 6
+    },
+    {
+      "text": "Email me at validationsample1@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-1",
+      "template": 7
+    },
+    {
+      "text": "My name is validationname2 and I live in 52 validationtown2 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-2",
+      "template": 0
+    },
+    {
+      "text": "Please call me validationname2. My school is validationschool2 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-2",
+      "template": 1
+    },
+    {
+      "text": "I study at validationschool2 Grove School and live at 52 validationtown2 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-2",
+      "template": 2
+    },
+    {
+      "text": "My friend is validationname2. We meet in 52 validationtown2 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-2",
+      "template": 3
+    },
+    {
+      "text": "My teacher is validationname2 at validationschool2 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-2",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-2",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-2",
+      "template": 6
+    },
+    {
+      "text": "Email me at validationsample2@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-2",
+      "template": 7
+    },
+    {
+      "text": "My name is validationname3 and I live in 53 validationtown3 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-3",
+      "template": 0
+    },
+    {
+      "text": "Please call me validationname3. My school is validationschool3 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-3",
+      "template": 1
+    },
+    {
+      "text": "I study at validationschool3 Grove School and live at 53 validationtown3 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-3",
+      "template": 2
+    },
+    {
+      "text": "My friend is validationname3. We meet in 53 validationtown3 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-3",
+      "template": 3
+    },
+    {
+      "text": "My teacher is validationname3 at validationschool3 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-3",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-3",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-3",
+      "template": 6
+    },
+    {
+      "text": "Email me at validationsample3@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-3",
+      "template": 7
+    },
+    {
+      "text": "My name is validationname4 and I live in 54 validationtown4 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-4",
+      "template": 0
+    },
+    {
+      "text": "Please call me validationname4. My school is validationschool4 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-4",
+      "template": 1
+    },
+    {
+      "text": "I study at validationschool4 Grove School and live at 54 validationtown4 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-4",
+      "template": 2
+    },
+    {
+      "text": "My friend is validationname4. We meet in 54 validationtown4 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-4",
+      "template": 3
+    },
+    {
+      "text": "My teacher is validationname4 at validationschool4 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-4",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-4",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-4",
+      "template": 6
+    },
+    {
+      "text": "Email me at validationsample4@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-4",
+      "template": 7
+    },
+    {
+      "text": "My name is validationname5 and I live in 55 validationtown5 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-5",
+      "template": 0
+    },
+    {
+      "text": "Please call me validationname5. My school is validationschool5 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-5",
+      "template": 1
+    },
+    {
+      "text": "I study at validationschool5 Grove School and live at 55 validationtown5 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-5",
+      "template": 2
+    },
+    {
+      "text": "My friend is validationname5. We meet in 55 validationtown5 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-5",
+      "template": 3
+    },
+    {
+      "text": "My teacher is validationname5 at validationschool5 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-5",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-5",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-5",
+      "template": 6
+    },
+    {
+      "text": "Email me at validationsample5@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-5",
+      "template": 7
+    },
+    {
+      "text": "My name is validationname6 and I live in 56 validationtown6 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-6",
+      "template": 0
+    },
+    {
+      "text": "Please call me validationname6. My school is validationschool6 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-6",
+      "template": 1
+    },
+    {
+      "text": "I study at validationschool6 Grove School and live at 56 validationtown6 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-6",
+      "template": 2
+    },
+    {
+      "text": "My friend is validationname6. We meet in 56 validationtown6 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-6",
+      "template": 3
+    },
+    {
+      "text": "My teacher is validationname6 at validationschool6 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-6",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-6",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-6",
+      "template": 6
+    },
+    {
+      "text": "Email me at validationsample6@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-6",
+      "template": 7
+    },
+    {
+      "text": "My name is validationname7 and I live in 57 validationtown7 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-7",
+      "template": 0
+    },
+    {
+      "text": "Please call me validationname7. My school is validationschool7 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-7",
+      "template": 1
+    },
+    {
+      "text": "I study at validationschool7 Grove School and live at 57 validationtown7 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-7",
+      "template": 2
+    },
+    {
+      "text": "My friend is validationname7. We meet in 57 validationtown7 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "validation-7",
+      "template": 3
+    },
+    {
+      "text": "My teacher is validationname7 at validationschool7 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "validation-7",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-7",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-7",
+      "template": 6
+    },
+    {
+      "text": "Email me at validationsample7@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "validation-7",
+      "template": 7
+    }
+  ],
+  "holdout": [
+    {
+      "text": "My name is holdoutname0 and I live in 50 holdouttown0 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-0",
+      "template": 0
+    },
+    {
+      "text": "Please call me holdoutname0. My school is holdoutschool0 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-0",
+      "template": 1
+    },
+    {
+      "text": "I study at holdoutschool0 Grove School and live at 50 holdouttown0 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-0",
+      "template": 2
+    },
+    {
+      "text": "My friend is holdoutname0. We meet in 50 holdouttown0 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-0",
+      "template": 3
+    },
+    {
+      "text": "My teacher is holdoutname0 at holdoutschool0 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-0",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-0",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-0",
+      "template": 6
+    },
+    {
+      "text": "Email me at holdoutsample0@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-0",
+      "template": 7
+    },
+    {
+      "text": "My name is holdoutname1 and I live in 51 holdouttown1 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-1",
+      "template": 0
+    },
+    {
+      "text": "Please call me holdoutname1. My school is holdoutschool1 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-1",
+      "template": 1
+    },
+    {
+      "text": "I study at holdoutschool1 Grove School and live at 51 holdouttown1 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-1",
+      "template": 2
+    },
+    {
+      "text": "My friend is holdoutname1. We meet in 51 holdouttown1 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-1",
+      "template": 3
+    },
+    {
+      "text": "My teacher is holdoutname1 at holdoutschool1 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-1",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-1",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-1",
+      "template": 6
+    },
+    {
+      "text": "Email me at holdoutsample1@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-1",
+      "template": 7
+    },
+    {
+      "text": "My name is holdoutname2 and I live in 52 holdouttown2 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-2",
+      "template": 0
+    },
+    {
+      "text": "Please call me holdoutname2. My school is holdoutschool2 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-2",
+      "template": 1
+    },
+    {
+      "text": "I study at holdoutschool2 Grove School and live at 52 holdouttown2 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-2",
+      "template": 2
+    },
+    {
+      "text": "My friend is holdoutname2. We meet in 52 holdouttown2 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-2",
+      "template": 3
+    },
+    {
+      "text": "My teacher is holdoutname2 at holdoutschool2 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-2",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-2",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-2",
+      "template": 6
+    },
+    {
+      "text": "Email me at holdoutsample2@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-2",
+      "template": 7
+    },
+    {
+      "text": "My name is holdoutname3 and I live in 53 holdouttown3 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-3",
+      "template": 0
+    },
+    {
+      "text": "Please call me holdoutname3. My school is holdoutschool3 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-3",
+      "template": 1
+    },
+    {
+      "text": "I study at holdoutschool3 Grove School and live at 53 holdouttown3 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-3",
+      "template": 2
+    },
+    {
+      "text": "My friend is holdoutname3. We meet in 53 holdouttown3 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-3",
+      "template": 3
+    },
+    {
+      "text": "My teacher is holdoutname3 at holdoutschool3 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-3",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-3",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-3",
+      "template": 6
+    },
+    {
+      "text": "Email me at holdoutsample3@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-3",
+      "template": 7
+    },
+    {
+      "text": "My name is holdoutname4 and I live in 54 holdouttown4 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-4",
+      "template": 0
+    },
+    {
+      "text": "Please call me holdoutname4. My school is holdoutschool4 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-4",
+      "template": 1
+    },
+    {
+      "text": "I study at holdoutschool4 Grove School and live at 54 holdouttown4 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-4",
+      "template": 2
+    },
+    {
+      "text": "My friend is holdoutname4. We meet in 54 holdouttown4 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-4",
+      "template": 3
+    },
+    {
+      "text": "My teacher is holdoutname4 at holdoutschool4 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-4",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-4",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-4",
+      "template": 6
+    },
+    {
+      "text": "Email me at holdoutsample4@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-4",
+      "template": 7
+    },
+    {
+      "text": "My name is holdoutname5 and I live in 55 holdouttown5 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-5",
+      "template": 0
+    },
+    {
+      "text": "Please call me holdoutname5. My school is holdoutschool5 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-5",
+      "template": 1
+    },
+    {
+      "text": "I study at holdoutschool5 Grove School and live at 55 holdouttown5 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-5",
+      "template": 2
+    },
+    {
+      "text": "My friend is holdoutname5. We meet in 55 holdouttown5 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-5",
+      "template": 3
+    },
+    {
+      "text": "My teacher is holdoutname5 at holdoutschool5 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-5",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-5",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-5",
+      "template": 6
+    },
+    {
+      "text": "Email me at holdoutsample5@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-5",
+      "template": 7
+    },
+    {
+      "text": "My name is holdoutname6 and I live in 56 holdouttown6 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-6",
+      "template": 0
+    },
+    {
+      "text": "Please call me holdoutname6. My school is holdoutschool6 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-6",
+      "template": 1
+    },
+    {
+      "text": "I study at holdoutschool6 Grove School and live at 56 holdouttown6 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-6",
+      "template": 2
+    },
+    {
+      "text": "My friend is holdoutname6. We meet in 56 holdouttown6 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-6",
+      "template": 3
+    },
+    {
+      "text": "My teacher is holdoutname6 at holdoutschool6 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-6",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-6",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-6",
+      "template": 6
+    },
+    {
+      "text": "Email me at holdoutsample6@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-6",
+      "template": 7
+    },
+    {
+      "text": "My name is holdoutname7 and I live in 57 holdouttown7 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-7",
+      "template": 0
+    },
+    {
+      "text": "Please call me holdoutname7. My school is holdoutschool7 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-7",
+      "template": 1
+    },
+    {
+      "text": "I study at holdoutschool7 Grove School and live at 57 holdouttown7 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-7",
+      "template": 2
+    },
+    {
+      "text": "My friend is holdoutname7. We meet in 57 holdouttown7 Lane.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE",
+        "PLACE",
+        "PLACE"
+      ],
+      "group": "holdout-7",
+      "template": 3
+    },
+    {
+      "text": "My teacher is holdoutname7 at holdoutschool7 Grove School.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "SCHOOL",
+        "SCHOOL",
+        "SCHOOL"
+      ],
+      "group": "holdout-7",
+      "template": 4
+    },
+    {
+      "text": "The weather is cloudy. Write a story about a robot and a moon.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-7",
+      "template": 5
+    },
+    {
+      "text": "I like music and drawing. Explain a triangle without using my details.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-7",
+      "template": 6
+    },
+    {
+      "text": "Email me at holdoutsample7@example.test. This is a fictional example.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "CONTACT",
+        "CONTACT",
+        "CONTACT",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ],
+      "group": "holdout-7",
+      "template": 7
+    }
+  ],
+  "challenge": [
+    {
+      "text": "My name is Blue and I live in Quiet.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE"
+      ]
+    },
+    {
+      "text": "Please call me curious. My school is online.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE"
+      ]
+    },
+    {
+      "text": "Ava from Mapleton attends Cedarbrook.",
+      "labels": [
+        "PERSON",
+        "NONE",
+        "PLACE",
+        "NONE",
+        "SCHOOL"
+      ]
+    },
+    {
+      "text": "My name is 권준 and I live in 서울.",
+      "labels": [
+        "NONE",
+        "NONE",
+        "NONE",
+        "PERSON",
+        "NONE",
+        "NONE",
+        "NONE",
+        "NONE",
+        "PLACE"
+      ]
+    }
+  ]
+}
